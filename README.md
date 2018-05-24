@@ -1,6 +1,7 @@
 # keyboard-input
 Live keyboard input display without 'Enter' key    
-This program can be used to create own notepad like application in C++. It reads live keypresses from the keyboard and display them on the screen.    
+
+This program can be used to create own applications like notepad in C++. It reads live keypresses from the keyboard and display them on the screen.    
 
 # Compile    
 g++ keyStroke.cpp -o main -lpthread -std=c++11    
